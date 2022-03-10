@@ -3,7 +3,7 @@ DataGenius is a Python web application that gamifies the process of assigning ta
 
 **Team**: Kunal Kapoor (Me), Gabe Reynolds, Kyle Kleinke  
 **Sponsor**: SAS (Cary, NC - Business Analytics)  
-**Languages**: Python, ReactJS   
+**Languages**: Python, ReactJS, HTML/CSS   
 **Tools**: Docker, Nginx  
 **Frameworks**: Flask  
 
