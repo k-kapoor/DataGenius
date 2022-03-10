@@ -7,7 +7,7 @@ DataGenius is a Python web application that gamifies the process of assigning ta
 **Tools**: Docker, Nginx  
 **Frameworks**: Flask  
 
-*api*: Backend Python code and Dockerfile
-*app*: Frontend ReactJS code
+*api*: Backend Python code and Dockerfile  
+*app*: Frontend ReactJS code  
 *nginx*: Web Server
 
